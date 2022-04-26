@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+}
+
+.featureRecipeGauche{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 80px;
+    background: #E7FAFE;
+
+}
+/* TODO// recuper la font "inter" */
+.hotRecipes{
+    display: flex;
+    padding: 50px 514px 32px 50px;
+    font-size: 14px;
+    font-family: inter, 'Arial Narrow Bold', sans-serif;
+}
+
+.hotRecipes img{
+    height: 24px;
+    width: 24px;
+}
+
+.hotRecipes p {
+    margin: 15px 20px 13px 7px;
+}
