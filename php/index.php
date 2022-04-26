@@ -18,7 +18,7 @@
                 <p>Hot Recipes</p>
             </div>
 
-            <h1>Spicy delicious chicken wings</h1>
+            <h1>Spicy delicious <br> chicken wings</h1>
 
             <p>Lorem ipsum dolor sit amet, consectetuipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqut enim ad minim</p>
 

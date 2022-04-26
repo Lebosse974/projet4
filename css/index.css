@@ -2,27 +2,72 @@ body{
     margin: 0px;
 }
 
+p {
+    font-family: 'Inter','Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+
+
+    color: rgba(0, 0, 0, 0.6);
+}
+
 .featureRecipeGauche{
     display: flex;
     justify-content: center;
     flex-direction: column;
     margin-left: 80px;
+    width: 620px;
+   
     background: #E7FAFE;
 
 }
 /* TODO// recuper la font "inter" */
 .hotRecipes{
     display: flex;
-    padding: 50px 514px 32px 50px;
+    margin: 50px 10px 32px 50px;
     font-size: 14px;
-    font-family: inter, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Inter', 'Arial Narrow Bold', sans-serif;
+    background: #FFFFFF;
+    border-radius: 30px;
+    width: 156px;
+    height: 45px;
 }
 
 .hotRecipes img{
     height: 24px;
     width: 24px;
+    padding: 11px 6px 10px 20px;
 }
 
 .hotRecipes p {
-    margin: 15px 20px 13px 7px;
+    padding: 15px 20px 13px 7px;
+    margin: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    letter-spacing: -0.02em;
+
+    color: #000000;
 }
+
+h1{
+    font-family: 'Inter','Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 77px;
+    letter-spacing: -0.04em;
+    width: 520px;
+    height: 154px;
+    margin: 32px 50px 12px 50px;
+    
+    color: #000000;
+}
+
