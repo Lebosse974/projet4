@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> HOME PAGE </title>
     <link rel="stylesheet" href="../css/index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Coda&family=Inter:wght@100;300;400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,300&display=swap" rel="stylesheet">
 </head>
 <body>
 
@@ -70,6 +73,13 @@
         
     </div>
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------ -->
-   
+   <div class="categoriesview">
+        <h1>Categories</h1>
+        <div class="vc">
+            <p class="ViewAllCategories" >View All Categories</p>   
+        </div>
+        
+   </div>
+    
 </body>
 </html>

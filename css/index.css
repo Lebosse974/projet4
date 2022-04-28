@@ -36,7 +36,7 @@ p {
 /* TODO// recuper la font "inter" */
 .hotRecipes{
     display: flex;
-    margin: 50px 10px 32px 50px;
+    margin: 45px 10px 32px 50px;
     font-size: 14px;
     font-family: 'Inter', 'Arial Narrow Bold', sans-serif;
     background: #FFFFFF;
@@ -75,7 +75,7 @@ h1.textelorem{
     letter-spacing: -0.04em;
     width: 520px;
     height: 154px;
-    margin: 32px 50px 12px 50px;
+    margin: 0px 50px 12px 50px;
     
     color: #000000;
 }
@@ -158,6 +158,7 @@ h1.textelorem{
 
 .jhonView{
     display: flex;
+    height: 100px;
 }
 
 .jhonSmith{
@@ -209,7 +210,7 @@ h1.textelorem{
     border-radius: 16px;
     width: 200px;
     height: 60px;
-    margin: 0px 50px 50px 149px;
+    margin: 0px 50px 40px 149px;
 }
 
 .viewRecipes p{
@@ -235,4 +236,51 @@ h1.textelorem{
 .maskGroupe{
     width: 620px;
     height: 640px;
+}
+/* ------------------------------------------------------------------------------------- */
+
+.categoriesview{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.categoriesview h1{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    /* identical to box height */
+
+    letter-spacing: -0.04em;
+    margin-left: 80px;
+   
+
+    color: #000000;
+}
+
+.vc{
+
+    background: #E7FAFE;
+    border-radius: 16px;
+    width: 200px;
+    height: 60px;
+    margin-right: 80px;
+
+}
+
+p.ViewAllCategories{
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.02em;
+    color: #000000;
+    
+    
+    margin: 21px 27px 20px 27px;
 }
