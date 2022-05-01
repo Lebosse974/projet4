@@ -73,6 +73,10 @@
         
     </div>
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ------------------------------------------------| liste des categorie |--------------------------------------------- -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
    <div class="categoriesview">
         <h1>Categories</h1>
         <div class="vc">
@@ -80,6 +84,141 @@
         </div>
         
    </div>
+
+   <div class="listecategorie">
+        <div class="categorie1">
+            <img src="../img/break.png" alt="breackfast">
+            <p>Breakfast</p>
+        </div>
+        <div class="categorie1">
+            <img src="../img/salade.png" alt="salade">
+            <p>Vegan</p>
+        </div>
+        <div class="categorie1">
+            <img src="../img/meat.png" alt="viande">
+            <p>Meat</p>
+        </div>
+        <div class="categorie1">
+            <img src="../img/dessert.png" alt="le dessert">
+            <p>Dessert</p>
+        </div>
+        <div class="categorie1">
+            <img src="../img/lunch.png" alt="déjeuner">
+            <p>Lunch</p>
+        </div>
+        <div class="categorie1">
+            <img src="../img/chocolat.png" alt=" du chocolat ">
+            <p>Chocolate</p>
+        </div>
+   </div>
+
+   <div class="tastyRecipes">
+       <h1>Simple and tasty recipes</h1>
+       <p>Lorem ipsum dolor sit amet, consectetuipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqut enim ad minim </p>
+   </div>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ------------------------------------------------| liste des plat |--------------------------------------------- -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+   <div class="listePlat">
+       <div class="plat">
+
+       
+            <img src="../img/menue.png" alt="">
+            <h1>Big and Juicy Wagyu Beef Cheeseburger</h1>
+            <div class="timecouvert1">
+                <div class="timer1">
+                    <img src="../img/Vector.png" alt=" chronomètre">
+                    <p>30 Minutes</p>
+                </div>
+
+                <div class="chicken1">
+                    
+                    <img  class="fourchette" src="../img/fourchette.png" alt=" couvert">
+                    <img class="couteau" src="../img/couteau.png" alt=" couvert">
+                    
+                    
+                    <p>Snack</p>
+                </div>  
+            </div>
+        </div>
+
+
+
+        <div class="plat">
+            <img src="../img/menue.png" alt="">
+            <h1>Big and Juicy Wagyu Beef Cheeseburger</h1>
+            <div class="timecouvert1">
+                <div class="timer1">
+                    <img src="../img/Vector.png" alt=" chronomètre">
+                    <p>30 Minutes</p>
+                </div>
+
+                <div class="chicken1">
+                    
+                    <img  class="fourchette" src="../img/fourchette.png" alt=" couvert">
+                    <img class="couteau" src="../img/couteau.png" alt=" couvert">
+                    
+                    
+                    <p>Snack</p>
+                </div>  
+            </div>
+        </div>
+
+
+        <div class="plat">
+            <img src="../img/menue.png" alt="">
+            <h1>Big and Juicy Wagyu Beef Cheeseburger</h1>
+            <div class="timecouvert1">
+                <div class="timer1">
+                    <img src="../img/Vector.png" alt=" chronomètre">
+                    <p>30 Minutes</p>
+                </div>
+
+                <div class="chicken1">
+                    
+                    <img  class="fourchette" src="../img/fourchette.png" alt=" couvert">
+                    <img class="couteau" src="../img/couteau.png" alt=" couvert">
+                    <p>Snack</p>
+                </div>  
+             </div>
+        </div>
+    </div>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------ -->
+  
+    <div class="cuistotall">
+
+    
+        <div class="cuistotGauche">
+
+            <h1>Everyone can be a <br> chef in their own kitchen</h1>
+            <p> Lorem ipsum dolor sit amet, consectetuipisicing elit, sed do <br> eiusmod tempor incididunt ut labore et dolore magna aliqut enim <br> ad minim </p>
+            <div class="lien">
+                <p>Learn More</p>
+            </div>
+
+        </div>
+
+
+        <div class="cuistotdroite">
+        <img src="../img/chefcuisstot.png" alt="ho chef">
+        </div>
+
+    </div>
+
+
+
+    <div class="deliciousRecipe">
+        <h1> Try this delicious recipe <br> to make your day </h1>
+        <p>Lorem ipsum dolor sit amet, consectetuipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqut enim ad minim </p>
+    </div>
+
+
+
+
+   
     
 </body>
 </html>

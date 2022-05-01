@@ -256,6 +256,8 @@ h1.textelorem{
 
     letter-spacing: -0.04em;
     margin-left: 80px;
+    margin-top: 0px;
+    margin-bottom: 0px;
    
 
     color: #000000;
@@ -282,5 +284,246 @@ p.ViewAllCategories{
     color: #000000;
     
     
-    margin: 21px 27px 20px 27px;
+    margin: 24px 27px 20px 27px;
+}
+
+
+.listecategorie{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 130px;
+    margin-bottom: 183px;
+    
+}
+
+.categorie1{
+    width: 180px;
+    height: 152px;
+    background: linear-gradient(180deg, rgba(112, 130, 70, 0) 0%, rgba(112, 130, 70, 0.1) 100%);
+    border-radius: 30px;
+}
+
+.categorie1 img {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 990px;
+    margin-left: 40px;
+    
+}
+
+.categorie1 p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    padding-top: 60px;
+
+    color: #000000;
+}
+
+.tastyRecipes p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    width: 706px;
+    line-height: 28px;
+    text-align: center;
+    margin-left :387px;
+    margin-bottom: 96px;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.tastyRecipes{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.tastyRecipes h1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+
+
+letter-spacing: -0.04em;
+}
+
+.listePlat{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0px;
+    margin-bottom: 143px;
+}
+
+.plat{
+    width: 400px;
+    height: 434px;
+    background: linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%);
+    border-radius: 30px;
+    margin: 40px;
+}
+
+.timer1{
+    
+    width: 139px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    margin-right: 16px;
+}
+
+.timer1 p {
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: -0.02em;
+    color: rgba(0, 0, 0, 0.6);
+    margin: 11px 16px 12px 7px;
+}
+
+.timer1 img{
+    height: 18px;
+    width: 18px;
+    margin: 11px 6px 11px 19px;
+}
+
+.chicken1{
+    width: 139px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.chicken1 p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: -0.02em;
+    color: rgba(0, 0, 0, 0.6);
+    margin: 11px 16px 12px 7px;
+}
+
+.chicken1 img.fourchette{
+    width: 8.25px;
+    height: 19.5px;
+    margin: 10px 0.5px 10px 19px;
+}
+.chicken1 img.couteau{
+    width: 6.75px;
+    height: 19.5px;
+    margin: 10px 7px 10px 0.5px;
+}
+
+.timecouvert1{
+    display: flex;
+    margin: 30px 50px 100px 50px;
+}
+
+.cuistotall{
+    display: flex;
+
+}
+
+.cuistotGauche{
+    display: flex;
+    flex-direction: column;
+    margin-left: 80px;
+    margin-top: 141px;
+    margin-right: 104px;
+   
+}
+
+.cuistotGauche h1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    letter-spacing: -0.04em;
+    margin-bottom: 24px;
+    }
+
+.cuistotGauche p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    margin-top: 0px;
+    margin-bottom: 72px;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.lien {
+    background: #000000;
+    border-radius: 16px;
+    width: 180px;
+    height: 60px;
+    margin-top: 0px;
+}
+.lien p{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+text-align: center;
+margin-top: 21px;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: -0.02em;
+color: #FFFFFF;
+}
+
+.cuistotdroite {
+    width: 651px;
+    height: 500px;
+    background: linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%);
+    border-radius: 30px;
+    margin-top: 109px;
+}
+
+.cuistotdroite img {
+    width: 660px;
+    height: 597px;
+    top: 2197px;
+    position: absolute;
+    margin-top: 143px;
+}
+
+.deliciousRecipe{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 183px;
+}
+
+.deliciousRecipe h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    letter-spacing: -0.04em;
+    }
+
+.deliciousRecipe p {
+  
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+margin-top: 70px;
+color: rgba(0, 0, 0, 0.6);
 }
